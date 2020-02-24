@@ -1,0 +1,51 @@
+.info-header {
+  background-color: #2e3131;
+  color: #fff !important;
+  padding-top: .5rem !important;
+}
+.info-header div h3, .info-header div p{
+  margin-bottom: 6px !important;
+}
+
+.boxes {
+  height: 90vh !important;
+}
+.modal-box{
+  height: 50vh !important;
+  padding-top: 4rem !important;
+  font-size: 200% !important;
+}
+.hardcoded{
+  background-color: #fabe58;
+
+}
+.dynamic{
+  background-color: #2574a9;
+}
+.dynamic input, .dynamic textarea{
+  font-size: 50%;
+  margin-bottom: 2rem !important;
+  width: 70%;
+}
+.dynamic textarea{
+  border-radius: 10px;
+  text-indent: 5px;
+}
+.custom{
+background-color: #019875;
+}
+.approval{
+background-color: #d24d57;
+}
+.fire-btn{
+  font-family: 'Trade Winds', Arial, Helvetica, sans-serif !important;
+  margin-bottom: 2rem !important;
+  font-size: 70% !important;
+}
+
+
+.App-header {
+
+}
+
+
